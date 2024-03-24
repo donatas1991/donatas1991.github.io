@@ -253,5 +253,26 @@ h4 {
         margin-left: 0;
     }
 
-  
+    .services ul {
+        display: initial;
+    }
+
+    .projects h2 {
+        text-align: center;
+    }
+
+    .projects-content {
+        display: initial;
+    }
+
+    .projects-content ul {
+        text-align: center;
+    }
+
+    .project-list {
+        width: auto;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
 }
