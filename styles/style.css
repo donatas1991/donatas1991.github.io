@@ -204,6 +204,7 @@ h4 {
     row-gap: 20px;
 }
 
+
 @media screen and (max-width: 850px) {
     .container {
         width: 100%;
@@ -257,17 +258,11 @@ h4 {
         display: initial;
     }
 
-    .projects h2 {
-        text-align: center;
-    }
 
     .projects-content {
         display: initial;
     }
 
-    .projects-content ul {
-        text-align: center;
-    }
 
     .project-list {
         width: auto;
