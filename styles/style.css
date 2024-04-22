@@ -30,6 +30,7 @@ header .container {
     height: 50px;
 }
 
+
 .container .menu ul {
     display: flex;
 }
@@ -206,6 +207,11 @@ h4 {
 h3 {
     text-align: center;
     color: #292E3D;
+}
+
+.contacts {
+    width: 50%;
+    margin: auto;
 }
 
 
