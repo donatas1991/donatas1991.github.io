@@ -209,9 +209,10 @@ h3 {
     color: #292E3D;
 }
 
-.contacts {
+.contacts   {
     width: 50%;
-    margin: auto;
+    margin: 20px auto 20px;
+    text-decoration: none;
 }
 
 

@@ -22,6 +22,8 @@
     </div>
 </div>
 
+<script src="https://kit.fontawesome.com/ca5d8f5921.js" crossorigin="anonymous"></script>
+
 
 </body>
 
