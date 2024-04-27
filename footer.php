@@ -21,9 +21,8 @@
         <a href="index.php"><img src="images/logo1.png" alt="logo"></a>
     </div>
 </div>
-
-<script src="https://kit.fontawesome.com/ca5d8f5921.js" crossorigin="anonymous"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script src="scripts/script.js"></script>
 
 </body>
 

@@ -210,10 +210,23 @@ h3 {
 }
 
 .contacts   {
-    width: 50%;
+    width: auto;
     margin: 20px auto 20px;
     text-decoration: none;
+    display: flex;
+    justify-content: center;
 }
+
+.contacts table tr td a {
+    text-decoration: none;
+    color: #292E3D;
+}
+
+.contacts table tr td {
+    size: 20px;
+}
+
+
 
 
 @media screen and (max-width: 850px) {
@@ -239,6 +252,11 @@ h3 {
     .container .menu ul li {
         margin-left: 0;
     }
+}
+
+form {
+    width: 50%;
+    margin: auto;
 }
 
 @media screen and (max-width: 600px) {

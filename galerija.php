@@ -157,11 +157,10 @@
         <a href="images/langas3.jpg" data-fancybox="gallery" data-caption="Caption #2">
             <img src="images/langas3.jpg" />
         </a>
+
         <a href="images/langas4.jpg" data-fancybox="gallery" data-caption="Caption #2">
             <img src="images/langas4.jpg" />
         </a>
-        <a href="images/durys.jpg" data-fancybox="gallery" data-caption="Caption #2">
-            <img src="images/durys.jpg" />
-        </a>
 
+    
         <?php include 'footer.php' ?>
