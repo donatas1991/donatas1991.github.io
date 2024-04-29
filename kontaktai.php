@@ -1,5 +1,6 @@
 <?php include 'header.php' ?>
 
+<div class="container">
 <div class="contacts">
     <table>
         <tr>
@@ -18,6 +19,7 @@
             <td><a href="mailto:inturkeslaiptai@gmail.com">inturkeslaiptai@gmail.com</a></td>
         </tr>
     </table>
+    
 
 
 <form>
@@ -30,6 +32,7 @@
     <textarea name="text" id="text" cols="30" rows="10"></textarea>
 </form>
 
+</div>
 </div>
 
 

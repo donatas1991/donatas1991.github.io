@@ -11,7 +11,7 @@
             </tr>
             <tr>
                 <td>EL.PAŠTAS:</td>
-                <td><a href="mailto:andriusskardinskas@gmail.com">andriusskardinskas@gmail.com</a></td>
+                <td><a href="mailto:inturkeslaiptai@gmail.com">inturkeslaiptai@gmail.com</a></td>
             </tr>
 
         </table>

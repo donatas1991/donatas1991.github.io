@@ -226,6 +226,10 @@ h3 {
     size: 20px;
 }
 
+form {
+    margin: auto;
+}
+
 
 
 
@@ -254,10 +258,6 @@ h3 {
     }
 }
 
-form {
-    width: 50%;
-    margin: auto;
-}
 
 @media screen and (max-width: 600px) {
     .container {
