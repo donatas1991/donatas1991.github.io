@@ -168,5 +168,6 @@
 
 </div>
 
-    
-        <?php include 'footer.php' ?>
+<button onclick="scrollToTop()" class="scroll-top-btn">Grįžti į viršų</button>
+
+<?php include 'footer.php' ?>

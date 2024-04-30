@@ -23,7 +23,7 @@
 
 
 <form>
-    <label for="">Susisiekite Su Mumis</label><br><br>
+    <p>Susisiekite Su Mumis</p><br><br>
     <label for="name">Jūsų vardas</label><br><br>
     <input type="text" id="name" value=""><br><br>
     <label for="email">Jūsų El-Paštas</label><br><br>
