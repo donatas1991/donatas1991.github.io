@@ -29,7 +29,8 @@
     <label for="email">Jūsų El-Paštas</label><br><br>
     <input type="email" name="email" id="email"><br><br>
     <label for="text">Jūsų žinutė</label><br><br>
-    <textarea name="text" id="text" cols="30" rows="10"></textarea>
+    <textarea name="text" id="text" cols="30" rows="10"></textarea><br>
+    <button>Susisiekti</button>
 </form>
 
 </div>
