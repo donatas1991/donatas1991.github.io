@@ -20,3 +20,6 @@ function scrollToTop() {
     window.scrollTo(0, currentScroll - (currentScroll / 8));
   }
 }
+
+
+
