@@ -38,6 +38,7 @@ header .container {
 .container .menu ul li {
     list-style: none;
     margin-left: 50px;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
 
@@ -204,11 +205,50 @@ h4 {
     column-gap: 20px;
     row-gap: 20px;
 }
+
 h3 {
     text-align: center;
     color: #292E3D;
 }
 
+.contacts {
+    width: auto;
+    margin: 20px auto 20px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts table {
+    max-height: 200px;
+}
+
+.contacts table tr td a {
+    text-decoration: none;
+    color: #292E3D;
+}
+
+.contacts table tr td {
+    size: 20px;
+}
+
+form {
+    margin: auto;
+}
+
+.scroll-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+    transition: opacity 0.6s ease-in-out;
+}
 
 @media screen and (max-width: 850px) {
     .container {
@@ -234,6 +274,7 @@ h3 {
         margin-left: 0;
     }
 }
+
 
 @media screen and (max-width: 600px) {
     .container {
